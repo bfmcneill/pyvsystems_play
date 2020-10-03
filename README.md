@@ -1,15 +1,17 @@
-# pyvsystems-play
+# pyvsystems_play
 
-play around with pyvsystems lib
+pyvsystems jupyter notebook and utilities
+
+## clone project
+
+```bash
+git clone git@github.com:bfmcneill/pyvsystems_play.git
+```
 
 ## install project
 
 ```bash
-git clone git@github.com:bfmcneill/pyvsystems-play.git
-```
-
-```bash
-cd pyvsystems-play
+cd pyvsystems_play
 poetry install
 ```
 
